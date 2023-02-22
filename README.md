@@ -1,4 +1,4 @@
-##Authors of this project
+Authors of this project
 
 Adetunji Olasubomi
 Adetunji Afolabi
