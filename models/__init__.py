@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-initialize the models package
+initializing the models package for airbnb
 """
 
 from os import getenv
